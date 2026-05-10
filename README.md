@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg)](https://vercel.com)
 
-> A world-class data science portfolio showcasing 5 production-ready projects with comprehensive technical depth, business impact, and professional presentation.
+> A world-class data science portfolio showcasing 7+ production-ready projects with comprehensive technical depth, business impact, and professional presentation.
 
 ![Portfolio Preview](https://porto-terbaru.vercel.app)
 
@@ -28,7 +28,7 @@
 
 ## 🎯 Overview
 
-This portfolio demonstrates **senior/lead-level data science expertise** through 5 comprehensive projects spanning marketing analytics, weather forecasting, economic analysis, mining operations, and advanced data analysis.
+This portfolio demonstrates **senior/lead-level data science expertise** through 7+ comprehensive projects spanning agritech intelligence, sustainability, marketing analytics, weather forecasting, economic analysis, mining operations, and advanced data analysis.
 
 ### Key Highlights
 
@@ -133,6 +133,30 @@ This portfolio demonstrates **senior/lead-level data science expertise** through
 - **Performance**: 91% accuracy on customer churn (AUC: 0.95)
 
 🔗 **[Live Demo](https://dataanalyst2.streamlit.app/)** | **[GitHub](https://github.com/yandri918/data)**
+
+---
+
+### 6. AgriSensa Intelligence Platform
+**Comprehensive agricultural intelligence platform**
+
+- **Impact**: 15% yield increase, 30% cost savings, deployed across Indonesia
+- **Tech**: Streamlit, Gemini AI, Roboflow, Folium GIS, Python
+- **Highlights**: 20+ specialized modules for precision farming, plant doctor, and weather integration
+- **Validation**: Multimodal AI diagnostics with high precision
+
+🔗 **[Live Demo](https://mirai39.streamlit.app/)** | **[GitHub](https://github.com/yandri918/streamlit_terbaru)**
+
+---
+
+### 7. Integrated Waste Management (Bank Sampah)
+**Circular economy waste management system**
+
+- **Impact**: Enabled economic value calculations from waste, adopting Japanese sorting standards
+- **Tech**: Streamlit, Pandas, Plotly, Python
+- **Highlights**: Real-time monitoring, organic waste conversion, ecosystem integration
+- **Results**: Turned waste into 'Green Gold' for community empowerment
+
+🔗 **[Live Demo](https://bank-sampah-terpadu.streamlit.app/)** | **[GitHub](https://github.com/yandri918/bank-sampah-terpadu)**
 
 ---
 
@@ -387,6 +411,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Economic Analysis](https://github.com/yandri918/ekonomi_makro-mikro)
 - [Mining Operations](https://github.com/yandri918/mining_portofolio)
 - [Data Analysis Suite](https://github.com/yandri918/data)
+- [AgriSensa Intelligence](https://github.com/yandri918/streamlit_terbaru)
+- [Integrated Waste Management](https://github.com/yandri918/bank-sampah-terpadu)
 
 ---
 
@@ -403,7 +429,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Portfolio Statistics
 
-- **Total Projects**: 5 production-ready applications
+- **Total Projects**: 7+ production-ready applications
 - **Total Impact**: $700K+ in business value
 - **Active Users**: 2,500+ across all platforms
 - **Code Quality**: 80%+ test coverage (in repositories)
@@ -430,6 +456,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ by Andriyanto
 
-[View Live Portfolio](https://porto-terbaru.vercel.app) | [Download CV](https://porto-terbaru.vercel.app/CV_Andriyanto_DataScientist.pdf)
+[View Live Portfolio](https://porto-terbaru.vercel.app) | [Download CV](https://porto-terbaru.vercel.app/Andriyanto.pdf)
 
 </div>
