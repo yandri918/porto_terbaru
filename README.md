@@ -400,8 +400,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Data Scientist | ML Engineer | Analytics Specialist*
 
 - 🌐 **Portfolio**: [https://porto-terbaru.vercel.app](https://porto-terbaru.vercel.app)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/yourprofile)
-- 📧 **Email**: your.email@example.com
+- 💼 **LinkedIn**: https://linkedin.com/in/andriyanto-na-147492157
+- 📧 **Email**: yandri918@gmail.com
 - 🐙 **GitHub**: [@yandri918](https://github.com/yandri918)
 
 ### Project Repositories
